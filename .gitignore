@@ -1,2 +1,5 @@
 gcp-cups-connector.config.json
 gcp-cups-connector.config.min.json
+conf/gcp-cups-connector.config.json
+conf/gcp-cups-connector.config.min.json
+dockerRunCommand.tmp.sh
